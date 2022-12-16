@@ -1,0 +1,146 @@
+body {
+
+    font-family: 'Inter', sans-serif;
+}
+
+.container {
+    width: 1440px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.top-bar {
+    display: flex;
+}
+
+.menu {
+
+    margin-top: 20px;
+    margin-left: 55em;
+}
+
+.menu-parts {
+    
+    font-size: 15px;
+    margin-left: 40px;
+    color: hsl(233, 8%, 79%);
+    font-weight: 400;
+}
+
+.main-content {
+
+    display: flex;
+}
+
+.main-img {
+
+    height: auto;
+    width: 65em;
+}
+
+.news {
+
+    background-color: hsl(240, 100%, 5%);
+    height: 427.29px;
+    margin-top: 36px;
+    margin-left: 40px;
+    width: 20em;
+}
+
+.new {
+    margin-left: 20px;
+    color: hsl(35, 77%, 62%);
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.news-title {
+
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: 800;
+    color: hsl(36, 100%, 99%);
+}
+
+.news-content {
+
+    margin-left: 20px;
+    color: hsl(233, 8%, 79%);
+    font-weight: 400;
+    font-size: 12px;
+}
+
+hr {
+
+    color: hsl(233, 8%, 79%);
+    height: 0px;
+    width: 16em;
+    margin-left: 20px;
+}
+
+.header-content {
+
+    display: flex;
+}
+
+.header {
+
+    color: hsl(240, 100%, 5%);
+    font-size: 4em;
+    font-weight: 800;
+    width: 5em;
+}
+
+.content {
+
+    font-size: 25px;
+    margin-left: 7em;
+    font-weight: 400;
+    color: hsl(236, 13%, 42%);
+    margin-top: 3em;
+    height: 0px;
+}
+
+.read-more {
+
+    background-color: hsl(5, 85%, 63%);
+    color: hsl(36, 100%, 99%);
+    font-weight: 700;
+    width: 175px;
+    height: 50px;
+    margin-left: 10em;
+    margin-top: 17em;
+    text-align: center;
+    font-size: 20px;
+}
+
+.news-2 {
+    display: flex;
+}
+
+.question-img {
+    height: auto;
+    width: 7em;
+}
+
+.question-content {
+    margin-left: 20px;
+}
+
+.number {
+    color: hsl(233, 8%, 79%);
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.question-title {
+    color: hsl(240, 100%, 5%);
+    font-size: 25px;
+    font-weight: 800;
+}
+
+.question {
+    color: hsl(236, 13%, 42%);
+    font-size: 15px;
+    font-weight: 400;
+}
